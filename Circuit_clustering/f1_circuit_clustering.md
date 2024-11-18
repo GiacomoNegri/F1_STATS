@@ -19,12 +19,12 @@ The analysis clusters F1 circuits using the following features:
 The dendrogram above shows the hierarchical relationship between circuits, with the vertical axis representing the distance or dissimilarity between clusters. The colors indicate different main clusters identified in the analysis.
 
 ### Feature Importance Heatmap
-![Feature Importance by Cluster](./figures/feature_importance.png)
+![Feature Importance by Cluster](./feature_importance.png)
 
 The heatmap displays the relative importance of different features for each cluster, with darker blue indicating higher values and darker orange indicating lower values. This visualization helps understand what characteristics define each cluster.
 
 ### PCA Visualization
-![Circuit Clusters PCA](./figures/pca_visualization.png)
+![Circuit Clusters PCA](./pca_visualization.png)
 
 The PCA plot shows the circuits projected onto two dimensions, with colors indicating cluster membership. This visualization helps understand the spatial relationships between circuits and clusters.
 

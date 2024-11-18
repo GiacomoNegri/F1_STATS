@@ -14,7 +14,7 @@ The analysis clusters F1 circuits using the following features:
 ## Clustering Results Visualization
 
 ### Hierarchical Clustering Dendrogram
-![Hierarchical Clustering Dendrogram](./figures/dendrogram.png)
+![Hierarchical Clustering Dendrogram](./dendrogram.png)
 
 The dendrogram above shows the hierarchical relationship between circuits, with the vertical axis representing the distance or dissimilarity between clusters. The colors indicate different main clusters identified in the analysis.
 
